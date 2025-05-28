@@ -1,0 +1,24 @@
+# 基础依赖
+streamlit>=1.22.0
+fastapi>=0.95.1
+python-dotenv>=1.0.0
+
+# 文档处理
+pypdf2>=3.0.1
+python-docx>=0.8.11
+langchain>=0.0.200
+langchain-community>=0.0.10
+
+# 向量数据库
+faiss-cpu>=1.7.4
+
+# 大模型接口
+zhipuai>=1.0.7
+requests>=2.31.0
+
+# 工具库
+numpy>=1.24.3
+pandas>=2.0.1
+
+# 文本处理
+jieba>=0.42.1
